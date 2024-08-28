@@ -20,7 +20,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OliverPerring&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OliverPerring&show_icons=true&count_private=true&hide_border=true&theme=graywhite" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin?username=OliverPerring&repo=DattoRMM-Alert-HaloPSA" align="center" /></div>
 
 <br/>  
 
