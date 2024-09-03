@@ -19,9 +19,12 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OliverPerring&show_icons=true&count_private=true&hide_border=true&theme=graywhite" align="center" /></div>
-<br/>
+## Github Stats 
+![](https://raw.githubusercontent.com/OliverPerring/github-stats/master/generated/overview.svg?token=GHSAT0AAAAAACUXUM7RVKACPZREC5YUESU4ZWXD7DA#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/OliverPerring/github-stats/master/generated/languages.svg?token=GHSAT0AAAAAACUXUM7QWH6HPFJ3FFJXTBEKZWXD53Q#gh-dark-mode-only)
+
+<div align="center"><img src="https://raw.githubusercontent.com/OliverPerring/github-stats/master/generated/overview.svg?token=GHSAT0AAAAAACUXUM7RVKACPZREC5YUESU4ZWXD7DA#gh-dark-mode-only" align="center" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/OliverPerring/github-stats/master/generated/languages.svg?token=GHSAT0AAAAAACUXUM7QWH6HPFJ3FFJXTBEKZWXD53Q#gh-dark-mode-only" align="center" /></div>
 
 
 ## Featured Repo  
