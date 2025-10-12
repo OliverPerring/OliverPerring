@@ -17,7 +17,8 @@ jobs:
             - name: Checkout
               uses: actions/checkout@v4
               with:
-                  token: ${{ secrets.GITHUB_TOKEN }}
+                  token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+                  fetch-depth: 0
 
             - name: Generate Language Stats Only
               uses: lowlighter/metrics@latest
@@ -35,9 +36,11 @@ jobs:
                   plugin_languages_details: bytes-size, percentage, lines
                   plugin_languages_sections: most-used
                   plugin_languages_indepth: yes
-                  plugin_languages_analysis_timeout: 10
+                  plugin_languages_analysis_timeout: 240
+                  plugin_languages_analysis_timeout_repositories: 240
                   plugin_languages_categories: markup, programming
-                  plugin_languages_limit: 10
+                  plugin_languages_limit: 30
+                  plugin_languages_threshold: 0%
 
                   # Include all repositories (private, forks, etc.)
                   repositories_affiliations: owner, collaborator, organization_member
@@ -55,6 +58,7 @@ jobs:
               run: |
                   git config --local user.email "action@github.com"
                   git config --local user.name "GitHub Action"
+                  git pull --rebase
                   git add assets/
                   git diff --staged --quiet || git commit -m "Update GitHub stats [skip ci]"
                   git push
