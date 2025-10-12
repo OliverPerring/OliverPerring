@@ -27,7 +27,13 @@ I'm a passionate full-stack developer and cloud infrastructure specialist, focus
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### Web Technologies
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
 ### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -40,50 +46,18 @@ I'm a passionate full-stack developer and cloud infrastructure specialist, focus
 *Including ALL repositories: private, forks, organization work, and personal projects*
 
 <div align="center">
-  <img src="./assets/github-metrics.svg" alt="Comprehensive GitHub Metrics" />
-</div>
-
-<div align="center">
   <img src="./assets/languages.svg" alt="Detailed Language Statistics" />
 </div>
 
-<div align="center">
-  <img src="./assets/detailed-metrics.svg" alt="Detailed Activity Metrics" />
-</div>
 
-### 📈 Live Statistics Summary
-<!-- STATS:START -->
-*Comprehensive stats are automatically generated every 6 hours and include:*
-- **All repositories** (public, private, forks, organization repos)
-- **Complete commit history** across all affiliated repositories  
-- **Total lines of code** written across all projects
-- **Language breakdown** from all repositories you've contributed to
-- **Organization contributions** including private repositories
-<!-- STATS:END -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OliverPerring&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🏢 Organization Contributions
 
-Since GitHub's API doesn't always show organization work properly (especially private repos and forks), here are my key contributions:
 
-### **AegisComputers**
-- Infrastructure automation and deployment scripts
-- System administration tools and monitoring solutions
-- Client project development and maintenance
 
-### **TF2-Price-DB**
-- Core contributor to **PriceDB.io** - the leading TF2 trading platform
-- Database optimization and API development
-- Real-time price tracking and market analysis tools
-- Repository maintenance and feature development
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OliverPerring&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
-</div>
 
 ## 📈 Contribution Graph
 <div align="center">
